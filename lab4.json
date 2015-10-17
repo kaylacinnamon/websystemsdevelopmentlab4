@@ -1,0 +1,44 @@
+{
+  "favoriteSongs": [
+    {
+      "title": "Can't Sleep Love",
+      "artist": "Pentatonix",
+      "album": "Pentatonix (Deluxe Edition)",
+      "year": "2015",
+      "genre": "Pop",
+      "website": "Pentatonix Website",
+      "websiteUrl": "http://ptxofficial.com",
+      "image": "http://a5.mzstatic.com/eu/r30/Music4/v4/55/55/00/555500f9-ff09-ecda-93da-a51e18d12908/cover326x326.jpeg"
+    },
+    {
+      "title": "Don't Wanna Fight",
+      "artist": "Alabama Shakes",
+      "album": "Sound & Color",
+      "year": "2015",
+      "genre": "American Rock",
+      "website": "Alabama Shakes Website",
+      "websiteUrl": "http://alabamashakes.com",
+      "image": "https://consequenceofsound.files.wordpress.com/2015/04/alabama-shakes-sound-and-color.jpg"
+    },
+    {
+      "title": "Armando's Rhumba",
+      "artist": "Chick Corea",
+      "album": "My Spanish Heart",
+      "year": "1976",
+      "genre": "Jazz",
+      "website": "Chick Corea Website",
+      "websiteUrl": "http://chickcorea.com",
+      "image": "http://chickcorea.com/wp-content/uploads/2012/11/My-Spanish-Heart.jpg"
+    },
+    {
+      "title": "Goodbye Pork Pie Hat",
+      "artist": "Charles Mingus",
+      "album": "Mingus Ah Um",
+      "year": "1959",
+      "genre": "Post-bop",
+      "website": "Charles Mingus Website",
+      "websiteUrl": "http://mingusmingusmingus.com",
+      "image": "http://cps-static.rovicorp.com/3/JPG_400/MI0002/041/MI0002041322.jpg?partner=allrovi.com"
+    }
+  ]
+}

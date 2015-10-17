@@ -1,0 +1,134 @@
+/*styles the whole page*/
+#container-page {
+  width: 90%;
+  height: 80%;
+  border: solid;
+  overflow: hidden;
+  visibility: hidden;
+}
+
+/*styles the lists within the page*/
+#container-lists {        
+  margin: 10px;
+  overflow: hidden;
+}
+
+/*styles the title block*/
+#title {
+  float: left;
+  position: relative;
+  width: 14%;
+}
+
+/*styles each individual title*/
+#title p {
+  font-variant: small-caps;
+  padding: 28% 5%;
+  margin: auto;
+  height: 25%;
+}
+
+/*styles the first title*/
+#title p:first-of-type {
+  color: green;
+}
+
+/*styles the artist block*/
+#artist {
+  float: left;
+  position: relative;
+  width: 14%;
+}
+
+/*styles each individual artist*/
+#artist p {
+  font-weight: bold;
+  padding: 28% 5%;
+  margin: auto;
+  height: 25%;
+}
+
+/*styles the album block*/
+#album {
+  float: left;
+  position: relative;
+  width: 14%;
+}
+
+/*styles each individual album*/
+#album p {
+  font-style: italic;
+  padding: 28% 5%;
+  margin: auto;
+  height: 25%;
+}
+
+/*styles the image block*/
+#image {
+  float: left;
+  position: relative;
+  width: 14%;
+}
+
+/*styles each individual image*/
+#image p {
+  padding: 5%;
+  margin: auto;
+  height: 25%;
+}
+
+/*styles the year block*/
+#year {
+  float: left;
+  position: relative;
+  width: 14%;
+}
+
+/*styles each individual year*/
+#year p {
+  padding: 29% 5%;
+  margin: auto;
+  font-size: 75%;
+  height: 25%;
+}
+
+/*styles the genre block*/
+#genre {
+  float: left;
+  position: relative;
+  width: 14%;
+}
+
+/*styles each individual genre*/
+#genre p {
+  padding: 29% 5%;
+  margin: auto;
+  font-size: 75%;
+  display: list-item;
+  height: 25%;
+}
+
+/*styles the website block*/
+#website {
+  float: left;
+  position: relative;
+  width: 14%;
+}
+
+/*styles each individual website*/
+#website p {
+  padding: 28% 5%;
+  margin: auto;
+  height: 25%;
+}
+
+h2 {
+  text-decoration: underline;
+  padding: 22% 5%;
+}
+
+h5 {
+  text-align: center;
+  font-style: italic;
+  font-size: 75%;
+}
